@@ -1,4 +1,5 @@
 ---
 applications:
 - disk_quota: 1024M
+  path: TestDevops3.war
   buildpack: java_buildpack
