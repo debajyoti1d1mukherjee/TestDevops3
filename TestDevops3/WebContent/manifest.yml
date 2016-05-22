@@ -1,0 +1,9 @@
+---
+applications:
+- disk_quota: 1024M
+  host: TestDevops3
+  name: TestDevops3
+  path: webStarterApp.war
+  instances: 1
+  memory: 512M
+  buildpack: java_buildpack
